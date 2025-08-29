@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student
+Creating bugs since : 2022
 
 
 ## 🌐 Socials:
