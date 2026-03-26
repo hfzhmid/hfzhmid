@@ -1,15 +1,12 @@
 # 💫 About Me:
+I’m a student at SMA Negeri 1 Tondano
+with a strong passion for cybersecurity.
+
 Creating bugs since : 2022
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hfzhmd1210) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hfzhmid&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hfzhmid&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hfzhmid&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
