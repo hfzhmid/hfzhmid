@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m a student at SMA Negeri 1 Tondano
-with a strong passion for cybersecurity.
+with a strong passion for sleeping.
 
 Creating bugs since : 2022
 
@@ -12,5 +12,3 @@ Creating bugs since : 2022
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hfzhmid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
